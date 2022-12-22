@@ -91,4 +91,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Deployed app 
 
 The contract was deployed and verified in the goerli network and the address is "0x9A12df345001c9754ffF1DbaB9f6a2a7F47AC744"
-And the Dapp was deployed in the heroku --> 
+And the Dapp was deployed in the heroku --> https://godaddy-eth.herokuapp.com
