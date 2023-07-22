@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react'
 import { ethers } from 'ethers'
 
 // Components
-import Navigation from './components/Navigation'
-import Search from './components/Search'
-import Domain from './components/Domain'
+import Navigation from './components/Navigation.js'
+import Search from './components/Search.js'
+import Domain from './components/Domain.js'
 
 // ABIs
 import ETHDaddy from './abis/ETHDaddy.json'
